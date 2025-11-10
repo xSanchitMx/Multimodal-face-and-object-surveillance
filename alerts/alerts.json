@@ -1,0 +1,23 @@
+[
+    {
+        "type": "image",
+        "person": "1762742160175_WIN_20251110_08_05_49_Pro.jpg",
+        "time": "2025-11-10 08:06:42",
+        "image": "img_1762742160175_WIN_20251110_08_05_49_Pro.jpg_1762742200.jpg",
+        "score": 0.9547827243804932
+    },
+    {
+        "type": "image",
+        "person": "1762742160175_WIN_20251110_08_05_49_Pro.jpg",
+        "time": "2025-11-10 08:08:15",
+        "image": "img_1762742160175_WIN_20251110_08_05_49_Pro.jpg_1762742294.jpg",
+        "score": 0.9537168145179749
+    },
+    {
+        "type": "text",
+        "person": "long black hair, spectacles, maroon shirt, stubble",
+        "time": "2025-11-10 08:09:09",
+        "image": "txt_1762742349.jpg",
+        "score": 0.27487778663635254
+    }
+]
